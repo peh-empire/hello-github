@@ -13,3 +13,9 @@ Any file in folder
 git add .
 ```
 
+## Commiting changes
+
+```console
+git commit -am 'short message describing what I have changed'
+```
+
