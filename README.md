@@ -20,3 +20,8 @@ Pushing to master branch
 ```console
 git push origin master
 ```
+## Cloning a repository
+```console
+git clone https://YOUR_USER_NAME@github.com/peh-empire/hello-github.git
+cd hello-github
+```
