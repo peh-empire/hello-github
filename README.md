@@ -28,7 +28,7 @@ cd hello-github
 ## Add collaborators
 To manage access, move to [peh-empire's settings](https://github.com/peh-empire/hello-github/settings), then to `Manage access' and press `Invite a collaborator` and select by `username`
 ## Create Issue
-Move to the repository at `github.com` and file a new Issue. Description shouldbe precise enough to work on task without further communication.
+Move to the repository at `github.com` and file a new Issue. Description should be precise enough to work on task without further communication.
 ## Create feature branch corresponding to Issue
 For an existing Issue, create a **new** local branch like (`-b` switch):
 ```console
