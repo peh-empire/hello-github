@@ -40,3 +40,7 @@ To switch to a different *existing* branch:
 ```console
 git checkout branch-name
 ```
+## Push feature branch to server
+```console
+git push -u origin feat/#42
+```
